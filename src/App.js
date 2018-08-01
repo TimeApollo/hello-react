@@ -19,7 +19,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-          YO <code>src/App.js</code> and save to reload.
+          YO <code>src/App.js</code> YO
         </p>
         <Text color='thistle' value='Aaron Jackson'></Text>
       </div>
